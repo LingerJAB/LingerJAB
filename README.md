@@ -15,6 +15,12 @@ I am **LingerJAB** you can call me **`Lin`**or**`铃`**，
 目前Github上只有一个DanceCubeBot项目且正在开发，是个半成品且一大堆依赖，学业繁忙但正在开发中
 
 
-🥰不过并不介意有人陪我玩，可以的话加我的QQ与我联系(GithubID同等QID,无验证）
+🥰不过并不介意有人陪我玩，可以的话加我的QQ与我联系(可直接搜索QID:LingerJAB）
 
 其它的话twitter,ig,tg,qq邮箱什么的都同名
+
+年后计划：
+- 完成dcbot项目
+- 学数据库和git
+- Spring
+- github pages
