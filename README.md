@@ -4,6 +4,7 @@ I am **LingerJAB** you can call me **`Lin`**or**`铃`**，
 
 🫥~~算了不扯英语了~~
 
+---
 
 💦爱好打音游，计算机上的破烂玩意（编程，逆向，搞搞http），作图，打游戏，~~二次元和涩涩~~
 
@@ -14,6 +15,7 @@ I am **LingerJAB** you can call me **`Lin`**or**`铃`**，
 
 目前Github上只有一个DanceCubeBot项目且正在开发，是个半成品且一大堆依赖，学业繁忙但正在开发中
 
+---
 
 🥰不过并不介意有人陪我玩，可以的话加我的QQ与我联系(可直接搜索QID:LingerJAB）
 
