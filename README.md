@@ -8,7 +8,7 @@ I am **LingerJAB** you can call me **`Lin`**or**`铃`**，
 
 💦爱好打音游，计算机上的破烂玩意（编程，逆向，搞搞http），作图，打游戏，~~二次元和涩涩~~
 
-~~废物引诱人~~，主玩pgr,md,dc,orz，偶尔摸摸kp,arc,malody
+~~废物引诱人~~，主玩pgr,md,dc,orz,musynx，偶尔摸摸kp,arc,malody
 
 
 不会git,spring什么的，对Java,Android比较感兴趣
@@ -23,6 +23,6 @@ I am **LingerJAB** you can call me **`Lin`**or**`铃`**，
 
 年后计划：
 - 完成dcbot项目
-- 学数据库和git
-- Spring
+- 学数据库和git，Spring
 - github pages
+- 练6k
