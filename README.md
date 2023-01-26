@@ -1,6 +1,6 @@
 # 😶‍🌫️Here!
 
-I am **LingerJAB** you can call me **`Lin`**or**`铃`**，
+I am **LingerJAB** and you can call me **`Lin`**or**`铃`**，
 
 🫥~~算了不扯英语了~~
 
