@@ -5,6 +5,8 @@ I'm **LingerJAB** and you can call me **`Lin`**or**`铃`**，
 
 ---
 
+[![LingerJAB's GitHub stats](https://github-readme-stats.vercel.app/api?username=LingerJAB&show_icons=true&theme=synthwave)](https://github.com/LingerJAB/)  
+
 💦爱好打音游，计算机上的破烂玩意（编程，逆向，搞搞http），作图，打游戏，~~二次元和涩涩~~  
 ~~废物引诱人~~，主玩Phigros,Dance of Fire&Ice,Orzmic,DanceCube,Musynx，~~偶尔摸摸Kalpa,MuseDash,Arcaea,Malody~~    
   
@@ -20,11 +22,11 @@ I'm **LingerJAB** and you can call me **`Lin`**or**`铃`**，
 
 **2023计划：**
 - 完成dcbot项目
-- 学数据库，Spring，注解反射多线程
+- 学数据库，Spring，~~注解反射~~，多线程
 - Github Pages
 - 练6k音游
 - 拥有一个好的服务器
-- ~~年级前100~~
+- 年级前100
 - ...
 - ...
-- ~~还有...她...~~
+- 还有...和她...
